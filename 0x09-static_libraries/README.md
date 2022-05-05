@@ -30,7 +30,7 @@ In this project, I learned what static libraries are and practiced creating and 
 - char *_strpbrk(char *s, char *accept);
 - char *_strstr(char *haystack, char *needle);
 
-main.h: Header file containing the prototypes of all functions included in libholberton.a.
+[main.h](https://github.com/Preciousevumude/alx-low_level_programming/blob/main/0x09-static_libraries/main.h): Header file containing the prototypes of all functions included in libholberton.a.
 
 1. Without libraries what have we? We have no past and no future
 
