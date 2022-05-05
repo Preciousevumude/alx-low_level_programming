@@ -34,4 +34,4 @@ In this project, I learned what static libraries are and practiced creating and 
 
 1. Without libraries what have we? We have no past and no future
 
-create_static_lib.sh: Bash script that creates a static library called liball.a from all the .c files in the current directory.
+[create_static_lib.sh](https://github.com/Preciousevumude/alx-low_level_programming/blob/main/0x09-static_libraries/create_static_lib.sh): Bash script that creates a static library called liball.a from all the .c files in the current directory.
